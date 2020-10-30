@@ -1,0 +1,22 @@
+{
+  "name": "hex-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "4.44.4"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.6",
+    "@types/express": "^4.17.8"
+  }
+}
